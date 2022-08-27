@@ -8,4 +8,4 @@ To simulate the market, we must estimate parameters. The approach here is the ma
 
 The paper is: econometrics_research.pdf
 
-Many thanks to Jeremy Fox for an interesting an challenging class.
+Many thanks to Jeremy Fox for an interesting and challenging class.
